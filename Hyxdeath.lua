@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local Window = Library.CreateLib("HYxDeath Hub - Bladeball", "Midnight")
+local Window = Library.CreateLib("HYxDeath Hub - Bloxfruit", "Midnight")
 local Tab = Window:NewTab("Scripts")
 local Section = Tab:NewSection("Close combat")
 Section:NewButton("redZ", "Best close combat!", function()
