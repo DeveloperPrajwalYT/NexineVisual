@@ -21,11 +21,18 @@ local Section = Tab:AddSection({
 Tab:AddButton({
 	Name = "RedZ",
 	Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+      loadstring(game:HttpGet("https://rawscripts.net/raw/Blox-Fruits-Redz-hub-aim-bot-23823", true))()
       		print("button pressed")
   	end    
 })
 
+Tab:AddButton({
+	Name = "Cokka Hub",
+	Callback = function()
+      loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
+      		print("button pressed")
+		end
+		
 Tab:AddButton({
 	Name = "Zen Hub",
 	Callback = function()
@@ -100,10 +107,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Makori-hub/Makori-Hub
   	end    
 })
 Tab:AddButton({
-	Name = "Visuals Levels",
+	Name = "Subscribe to HYxDEATH",
 	Callback = function()
-      loadstring(game:HttpGet('https://raw.githubusercontent.com/SHAREHACK/allscript/main/level'))()
-      		print("button pressed")
+      		print("Subscribe!")
   	end    
 })
 Tab:AddButton({
