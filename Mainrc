@@ -1,0 +1,3 @@
+local url = "https://raw.githubusercontent.com/DeveloperPrajwalYT/NexineVisual/refs/heads/main/Src?token=GHSAT0AAAAAAC35WZY5PR6BYF6UZMCWSOPWZ36PGOA"
+local response = game:HttpGet(url)
+loadstring(response)()
