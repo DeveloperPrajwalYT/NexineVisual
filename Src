@@ -12,7 +12,7 @@ _G.Key = "hyxontop" -- You Put Your Key Here
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DeveloperPrajwalYT/HYxDEATH/main/Hyxdeath.lua'))(); -- You Put Your Script Here
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DeveloperPrajwalYT/NexineVisual/main/Hyxdeath.lua'))(); -- You Put Your Script Here
 
 end
 
