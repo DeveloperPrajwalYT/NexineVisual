@@ -8,7 +8,7 @@ OrionLib:MakeNotification({
     Time = 5
 })
 
-_G.Key = "SyntaxKey#8369" -- You Put Your Key Here
+_G.Key = "hyxontop" -- You Put Your Key Here
 _G.KeyInput = "string"
 
 function MakeScriptHub()
