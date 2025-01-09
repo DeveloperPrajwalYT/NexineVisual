@@ -1,4 +1,58 @@
 -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+-- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
 --[ Credits to senjha.termx for the source code ]--
  --[ Credits to senjha.termx for the source code ]--
  --[ Credits to senjha.termx for the source code ]--
@@ -26,10 +80,351 @@
  --[ Credits to senjha.termx for the source code ]--
  
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+-- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
 
 -- NepXSenjha on top!!
 local Window = OrionLib:MakeWindow({
-    Name = "HYxDEATH HUB",
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]---- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+    -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]-- 
+  Name = "HYxDEATH HUB",
         --[ Credits to senjha.termx for the source code ]--
  --[ Credits to senjha.termx for the source code ]--
  --[ Credits to senjha.termx for the source code ]--
@@ -40,23 +435,238 @@ local Window = OrionLib:MakeWindow({
  --[ Credits to senjha.termx for the source code ]--
  --[ Credits to senjha.termx for the source code ]--
  --[ Credits to senjha.termx for the source code ]--
- 
+ -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
     HidePremium = false,
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
     IntroText = "NepXScriptVerse",
+-- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
     SaveConfig = true,
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
     ConfigFolder = "ScriptVerse"
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
 })
 
 -- NepXSenjha on top!!
 local BloxFruitsTab = Window:MakeTab({
     Name = "Blox Fruits",
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
     Icon = "rbxassetid://4483345998",
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
     PremiumOnly = false
 })
 
 -- NepXSenjha on top!!
+-- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
 BloxFruitsTab:AddButton({
-    Name = "RedZ Hub",
+    Name = "[SUGGESTED] RedZ Hub",
         --[ Credits to senjha.termx for the source code ]--
  --[ Credits to senjha.termx for the source code ]--
  --[ Credits to senjha.termx for the source code ]--
@@ -71,12 +681,92 @@ BloxFruitsTab:AddButton({
  --[ Credits to senjha.termx for the source code ]--
  
     Callback = function()
+   -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
         loadstring(game:HttpGet("https://rawscripts.net/raw/Blox-Fruits-Redz-hub-aim-bot-23823", true))()
         print("RedZ Hub loaded.")
     end
 })
-
+-- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
 BloxFruitsTab:AddButton({
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
     Name = "Cokka Hub",
         --[ Credits to senjha.termx for the source code ]--
  
@@ -84,6 +774,33 @@ BloxFruitsTab:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua"))()
         print("Cokka Hub loaded.")
     end
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
 })
 
 BloxFruitsTab:AddButton({
@@ -258,8 +975,62 @@ FischTab:AddButton({
 
 -- NepXSenjha on top!!
 local TSBTab = Window:MakeTab({
-    Name = "The Strongest Battlegrounds",
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+    Name = "Strongest Battlegrounds",
     Icon = "rbxassetid://4483345998",
+  -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
     PremiumOnly = false
 })
 
@@ -267,6 +1038,33 @@ local TSBTab = Window:MakeTab({
 TSBTab:AddButton({
     Name = "Spooks Hub TSB Script",
     Callback = function()
+   -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
         loadstring(game:HttpGet('https://raw.githubusercontent.com/ApparentlySpooks/spookshubTSB/main/SHTSB.txt'))()
         print("Spooks Hub TSB Script loaded.")
     end
@@ -299,6 +1097,33 @@ TSBTab:AddButton({
 TSBTab:AddButton({
     Name = "Mautiku's TSB Hack",
     Callback = function()
+   -- NepXSenjha on top!!
+--[I dont mind if you skid this code :D]
+--[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
+ --[ Credits to senjha.termx for the source code ]--
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt'))()
         print("Mautiku's TSB Hack loaded.")
     end
