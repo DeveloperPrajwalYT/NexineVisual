@@ -6,15 +6,15 @@ getgenv().Configs = {
     ["Click Time"] = 0.2,
     ["White Screen"] = false, -- false / true
     ["Chat"] = {
-        ["Enable"] = true,
+        ["Enable"] = false,
         ["Message"] = {"gg", "np", "hi", "hehe"}, -- Input your message here
     },
     ["Run When Low Health"] = {
-        ["Enable"] = false,
+        ["Enable"] = true,
         ["Health"] = 3500,
         ["Come back"] = true
     },
-    ["Region"] = "United States", -- Singapore, United States, Germany, France, India, ??? ... or "All"
+    ["Region"] = "India", -- Singapore, United States, Germany, France, India, ??? ... or "All"
     ["Weapons"] = {
         ["Melee"] = {
             ["Enable"] = true,
@@ -59,7 +59,8 @@ getgenv().Configs = {
                     ["Time to next skill"] = 0
                 },
                 ["C"] = {
-                    ["Enable"] = false,
+                    ["Enable"] = true
+,
                     ["HoldTime"] = 0,
                     ["Order"] = 0,
                     ["Time to next skill"] = 0
@@ -68,10 +69,11 @@ getgenv().Configs = {
                     ["Enable"] = false,
                     ["HoldTime"] = 0,
                     ["Order"] = 0,
-                    ["Time to next skill"] = 0
+    
+                ["Time to next skill"] = 0
                 },
                 ["F"] = {
-                    ["Enable"] = false,
+                    ["Enable"] = true,
                     ["HoldTime"] = 0,
                     ["Order"] = 0,
                     ["Time to next skill"] = 0
@@ -79,7 +81,7 @@ getgenv().Configs = {
             }
         },
         ["Sword"] = {
-            ["Enable"] = false,
+            ["Enable"] = true,
             ["Delay"] = 0.75,
             ["Order"] = 1,
             ["Skills"] = {
@@ -98,7 +100,7 @@ getgenv().Configs = {
             }
         },
         ["Gun"] = {
-            ["Enable"] = false,
+            ["Enable"] = true,
             ["Delay"] = 1.5,
             ["Order"] = 2,
             ["Skills"] = {
@@ -129,8 +131,8 @@ getgenv().Configs = {
         }
     },
     ["Webhook"] = {
-        ["Enable"] = false,
-        ["Url"] = "",
+        ["Enable"] = true,
+        ["Url"] = "https://discord.com/api/webhooks/1334538997656977480/K7n8RAJnJ8_pvXJULu08TX2YPMx1wq5PREd794owDyVffKZBALDSicgxc-mHtekEwxdv",
         ["Image"] = "https://media.discordapp.net/attachments/1162947702615711765/1229739840661094451/background.png?ex=67576eb9&is=67561d39&hm=da94e1b066b7a974e1577fe4fb355ce2907de8acf56aa4c467d7023a59d1d927&=&format=webp&quality=lossless&width=692&height=395"
     }
 }
