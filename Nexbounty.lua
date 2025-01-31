@@ -14,7 +14,7 @@ getgenv().Configs = {
         ["Health"] = 3500,
         ["Come back"] = true
     },
-    ["Region"] = "India", -- Singapore, United States, Germany, France, India, ??? ... or "All"
+    ["Region"] = "All", -- Singapore, United States, Germany, France, India, ??? ... or "All"
     ["Weapons"] = {
         ["Melee"] = {
             ["Enable"] = true,
