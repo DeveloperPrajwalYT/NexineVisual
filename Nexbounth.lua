@@ -1,4 +1,4 @@
-script_key = "put_your_key_here";
+script_key = "gBhvwHKLREtjaXUDZSHFxxTpLtkhzjaI";
 
 _G["HoHo Hub Auto Bounty V4"] = {
     ["Avatar"] = "rbxassetid://8598068647",
