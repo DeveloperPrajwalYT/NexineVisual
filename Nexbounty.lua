@@ -59,7 +59,7 @@ getgenv().Configs = {
                     ["Time to next skill"] = 0
                 },
                 ["C"] = {
-                    ["Enable"] = false
+                    ["Enable"] = true
 ,
                     ["HoldTime"] = 0,
                     ["Order"] = 0,
